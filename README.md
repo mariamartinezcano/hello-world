@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hello!
+I'm from Spain, I like playing soccer and I love Japanese food.
